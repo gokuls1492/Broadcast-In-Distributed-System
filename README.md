@@ -1,6 +1,6 @@
 Instructions:
 1. Log into any server (csgrad1) and copy all the files 
-2. Compile all the java files / place the class files given in the required folder(For me: /home/012/g/gx/gxs161530/AOS/Final)
+2. Compile all the java files / place the class files given in the required folder
 	- Init.java
 	- Client.java
 	- Configuration.java
